@@ -21,6 +21,22 @@
 
 ## <ins>Execution of the program:</ins>
 
+<p><ins>Server screen: Follows the game in real time, with the movements of the two clients and the ball.</ins></p>
+
+![Server](https://github.com/brunobrunheroto/PongGame/assets/67275098/aa1c41fe-b089-4bef-b726-b3f0908c3599)
+
+<p><ins>Player 1 Screen.</ins></p>
+
+![Player1](https://github.com/brunobrunheroto/PongGame/assets/67275098/36982bbc-a66d-405e-a223-29941285b595)
+
+<p><ins>Player 2 Screen.</ins></p>
+
+![Player2](https://github.com/brunobrunheroto/PongGame/assets/67275098/27b4ae20-84b5-4526-86a4-b543d1bc754a)
+
 ## <ins>Credits</ins>
 
 <p> The ideia to work on this project and it's structure was shared by the professor José Martins at Facamp. </p>
+<p>Other team members:</p>
+
+- Lucas Pires Barbosa
+- Luís Gustavo Freitas
