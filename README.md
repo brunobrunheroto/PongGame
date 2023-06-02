@@ -8,7 +8,7 @@
 
 - Java
 - Spring Framework
-- <p>The project was done using Apache NetBeans IDE.</p>
+<p>The project was done using Apache NetBeans IDE.</p>
 
 ## <ins>How to use </ins>
 
@@ -23,15 +23,15 @@
 
 <p><ins>Server screen: Follows the game in real time, with the movements of the two clients and the ball.</ins></p>
 
-![Server](https://github.com/brunobrunheroto/PongGame/assets/67275098/aa1c41fe-b089-4bef-b726-b3f0908c3599)
+<img src="https://github.com/brunobrunheroto/PongGame/assets/67275098/aa1c41fe-b089-4bef-b726-b3f0908c3599" width="400" />
 
 <p><ins>Player 1 Screen.</ins></p>
 
-![Player1](https://github.com/brunobrunheroto/PongGame/assets/67275098/36982bbc-a66d-405e-a223-29941285b595)
+<img src="https://github.com/brunobrunheroto/PongGame/assets/67275098/36982bbc-a66d-405e-a223-29941285b595" width="400" />
 
 <p><ins>Player 2 Screen.</ins></p>
 
-![Player2](https://github.com/brunobrunheroto/PongGame/assets/67275098/27b4ae20-84b5-4526-86a4-b543d1bc754a)
+<img src="https://github.com/brunobrunheroto/PongGame/assets/67275098/27b4ae20-84b5-4526-86a4-b543d1bc754a" width="400" />
 
 ## <ins>Credits</ins>
 
